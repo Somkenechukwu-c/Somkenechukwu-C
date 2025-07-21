@@ -14,9 +14,6 @@ elif score >= 0 and score <= 39:
   Grade=F
 else:
     print("Invalid score")
-Print(Grade)
   
-CHILOLI SOMKENECHUKWU CYNTHIA 
-HUMAN ANATOMY 
-100L
-2024704165
+
+Print(score"="Grade)
